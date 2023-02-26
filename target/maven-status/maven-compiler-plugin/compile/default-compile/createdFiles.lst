@@ -1,0 +1,7 @@
+org\xmobots\utils\JsonUtils$1.class
+org\xmobots\DTO\Runway.class
+org\xmobots\DTO\Aerodrome.class
+org\xmobots\DTO\AerodromesList.class
+org\xmobots\utils\JsonUtils.class
+org\xmobots\utils\HibernateUtils.class
+org\xmobots\Main.class
